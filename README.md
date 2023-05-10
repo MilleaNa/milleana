@@ -3,7 +3,7 @@
 
 - 🔭 Je suis un train de développer mon propre site web **portfolio V2.0**
 
-- 👨‍💻 Ma présentation et celle de mon école sont disponible ici [https://www.milleana.me](https://www.milleana.me)
+- 👨‍💻 Ma présentation et celle de mon école sont disponible ici [milleana.me](https://milleana.me)
 
 - 📫 Si vous souhaitez me contacter **lylou.point@gmail.com**
 
