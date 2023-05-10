@@ -20,20 +20,20 @@
 	
 <br>   
 
-- **Front-End Development**:
+- **Développement Front-End**:
 
     [![Front-End](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap)](https://skillicons.dev)<a href="https://materializecss.com/" target="_blank" rel="noreferrer"><a> ‎ </a>    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/></a>
 
 <br>   
     
-- **Back-End Development**:
+- **Développement Back-End**:
 	
 	
     [![Back-End](https://skillicons.dev/icons?i=javascript,php)](https://skillicons.dev)
 	
 <br>
 	
-- **Softwares and Tools**:
+- **Softwares et Outils**:
 
     [![Software](https://skillicons.dev/icons?i=idea,git)](https://skillicons.dev)
 	
