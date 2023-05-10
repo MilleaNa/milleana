@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, je suis MilleaNa</h1>
-<h3 align="center">Je suis étudiante à Guardia Cybersecurity School, ce GitHub sert à gérer mes projets professionnel et personnel.</h3>
+<h3 align="center">Étudiante à Guardia Cybersecurity School, ce GitHub sert à gérer mes projets professionnel et personnel.</h3>
 
 - 🔭 Je suis un train de développer mon propre site web **portfolio V2.0**
 
