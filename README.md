@@ -7,6 +7,7 @@
 
 - 📫 Si vous souhaitez me contacter **lylou.point@gmail.com**
 
+<p align="center">
 <a href="https://linkedin.com/in/lylou-duc"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lylou duc" height="20" width="30" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
