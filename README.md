@@ -14,7 +14,7 @@
 
 <p align="center">
 
-- **Languages**:
+- **Langages**:
     
     [![Algorithm](https://skillicons.dev/icons?i=c,python,mysql,arduino,linux)](https://skillicons.dev)
 	
