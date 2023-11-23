@@ -7,8 +7,6 @@
 
 - 📫 Si vous souhaitez me contacter **lylou.point@gmail.com**
 
-  Je suis à la recherche d'un stage en cybersecurité pour mai 2023.
-
 <p align="center"><a href="https://linkedin.com/in/lylou-duc"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lylou duc" height="30" width="40" /></a></p>
 
 <h2>Compétences</h2>
